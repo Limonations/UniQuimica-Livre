@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img height="200" src="https://www.btaaditivos.com.br/images/imagem-blog-quimico.jpg"  />
+  <img src="https://www.btaaditivos.com.br/images/imagem-blog-quimico.jpg"  />
 </div>
 
 # Central da Engenharia Química
